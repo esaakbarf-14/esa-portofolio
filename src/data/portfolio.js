@@ -9,12 +9,12 @@
       "Staf Administrasi & IT Sekolah"
     ],
 
-    bio: "Mahasiswa S1 Teknik Informatika Universitas Pelita Bangsa yang diperkirakan lulus pada November 2026, dengan pengalaman lebih dari 4 tahun dalam pengelolaan data dan pengembangan solusi berbasis teknologi di lingkungan sekolah. Berpengalaman mengelola ratusan data serta membangun sistem informasi berbasis web menggunakan PHP Native, Laravel, dan MySQL. Mengembangkan berbagai solusi berbasis teknologi menggunakan Google Apps Script, Python, dan Microsoft Excel VBA untuk mendukung proses administrasi dan pengolahan data.",
+    bio: "Sarjana Teknik Informatika Universitas Pelita Bangsa dengan pengalaman lebih dari 4 tahun di bidang teknologi informasi, pengelolaan sistem, dan pengolahan data. Berpengalaman mengembangkan aplikasi berbasis web menggunakan PHP Native dan Laravel, serta membangun solusi otomatisasi dan integrasi menggunakan Google Apps Script, Python, Microsoft Excel VBA, dan API. Memiliki kemampuan dalam problem solving, analisis sistem, pengembangan aplikasi, dan pengelolaan database, serta terbiasa bekerja secara mandiri maupun dalam tim.",
 
     education: {
       degree: "S1 Teknik Informatika",
       institution: "Universitas Pelita Bangsa",
-      graduation: "Perkiraan Lulus: November 2026"
+      graduation: "Lulus: 26 Juli 2026"
     },
 
     contact: {
